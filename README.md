@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=220&section=header&text=Saif%20Maroof&fontSize=45&fontColor=fff&animation=twinkling&desc=Frontend%20Developer%20%7C%20Software%20Explorer&descSize=18&descAlignY=62" width="100%" alt="Header Banner"/>
+  <img src="https://raw.githubusercontent.com/mohammadsaifuddinmaruf/mohammadsaifuddinmaruf/main/github-header-banner.png" width="100%" alt="Mohammad Saifuddin Maruf Banner"/>
 </div>
 
 <br/>
@@ -8,13 +8,13 @@
 <!-- ABOUT ME SECTION -->
 ## 💫 About Me
 
-Hi there! 👋 I'm **Saif Maroof**, a passionate web developer and tech explorer focused on crafting interactive, user-friendly digital experiences and diving deep into modern web technologies.
+Hi there! 👋 I'm **Mohammad Saifuddin Maruf**, a passionate **MERN Stack Developer** focused on crafting interactive, full-stack web applications and modern web solutions.
 
-- 🔭 **Currently working on:** Building dynamic, responsive frontend web applications.
-- 🌱 **Learning & Exploring:** Deep diving into **Next.js** and advanced JavaScript frameworks.
-- ⚡ **Tech Interests:** Web design, frontend engineering, network protocols, and scripting.
+- 🔭 **Currently working on:** Building dynamic full-stack applications with React, Node.js, Express, and MongoDB.
+- 🌱 **Learning & Exploring:** Deep diving into **Next.js** and advanced web architectures.
+- ⚡ **Tech Interests:** Full-stack development, database design, REST APIs, and performance optimization.
 - 🎯 **Goals:** Developing scalable web solutions and contributing to open-source projects.
-- 💬 **Ask me about:** HTML, CSS, JavaScript, dynamic web interfaces, and SEO fundamentals.
+- 💬 **Ask me about:** JavaScript, React, Node.js, Express, MongoDB, and modern frontend practices.
 
 ---
 
@@ -23,18 +23,21 @@ Hi there! 👋 I'm **Saif Maroof**, a passionate web developer and tech explorer
 
 <div align="center">
 
-### Frontend & Core
+### MERN Stack & Core
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
-### Frameworks & Libraries
+### Frontend & Styling
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 </p>
 
